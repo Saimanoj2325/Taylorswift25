@@ -1,0 +1,8 @@
+streamlit
+requests
+lyricsgenius
+wordcloud
+matplotlib
+Pillow
+beautifulsoup4
+dotenv
