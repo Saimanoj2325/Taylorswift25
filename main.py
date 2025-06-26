@@ -351,7 +351,7 @@ def generate_wordcloud(text, colormap='viridis'):
         background_color='white',
         colormap=colormap,
         max_words=100,
-        relative_scaling="0.5",
+        relative_scaling=0.5,
         random_state=42
     ).generate(text)
     
